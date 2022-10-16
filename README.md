@@ -1,8 +1,4 @@
-# logo
-logo.dialogware.com
-
-# logo.dialogware.com
-
+# [logo.dialogware.com](https://logo.dialogware.com/) 
 
 ## Font
 
