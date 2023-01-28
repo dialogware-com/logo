@@ -81,7 +81,22 @@ Icon
 
 
 
+![Screenshot from 2023-01-28 15-57-12.png](Screenshot from 2023-01-28 15-57-12.png)
+![](Screenshot from 2023-01-28 15-59-35.png)
 
+![](Screenshot from 2023-01-28 15-59-43.png)
+
+![](Screenshot from 2023-01-28 16-12-32.png)
+
+![](Screenshot from 2023-01-28 16-13-01.png)
+
+![](Screenshot from 2023-01-28 16-50-56.png)
+
+![](Screenshot from 2023-01-28 16-51-05.png)
+
+![](Screenshot from 2023-01-28 16-51-11.png)
+
+![Screenshot from 2023-01-28 16-52-41.png](Screenshot from 2023-01-28 16-52-41.png)
 ---
 
 + [edit](https://github.com/dialogware/logo/edit/main/README.md)
