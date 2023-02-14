@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Titillium-Bold
+font link: https://www.fontsquirrel.com/fonts/titillium
+font author: Accademia di Belle Arti Urbino
+font author site: http://www.accademiadiurbino.it/
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Andrejs Kirma
+icon designer link: /andrejs
+        
+
+fontColor: {"gradient-0":"#00D2FF","gradient-1":"#10DD45"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#00D2FF","gradient-1":"#10DD45"}
+sloganColor: {"gradient-0":"#C4C4C4","gradient-1":"#909190"}
+      
